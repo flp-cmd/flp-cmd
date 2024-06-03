@@ -2,7 +2,7 @@
 # Hi there, I'm Felipe Martinez 👋
 
 ### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/). I'm also majoring in information systems at [UNICAMP](https://www.unicamp.br/).
+I'm a Web Developer studying web development at [Rocketseat](https://rocketseat.com.br/). I'm also majoring in information systems at [UNICAMP](https://www.unicamp.br/).
 
 ### Current Stack
 
