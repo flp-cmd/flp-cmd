@@ -26,6 +26,7 @@ Bachelor’s degree in Information Systems from UNICAMP.
 
 ### Contacts
 - 📬 Email: felipe.costafm00@gmail.com
-- 🧑‍💻 Linkedin: [Felipe Martinez](https://www.linkedin.com/in/felipe-martinez-0b8568261/)
+- 🧑‍💻 Linkedin: <a href="https://www.linkedin.com/in/felipe-martinez-0b8568261/" target="_blank">Felipe Martinez</a>
+
 
 
