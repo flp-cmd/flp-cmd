@@ -25,6 +25,7 @@ Education
 Bachelor’s degree in Information Systems from UNICAMP.
 
 ### Contacts
-- 📬 Email: f254214@dac.unicamp.br
-- 🧑‍💻 Linkedin: https://www.linkedin.com/in/felipe-costa-fonseca-martinez-0b8568261/
+- 📬 Email: felipe.costafm00@gmail.com
+- 🧑‍💻 Linkedin: [Felipe Martinez](https://www.linkedin.com/in/felipe-martinez-0b8568261/)
+
 
