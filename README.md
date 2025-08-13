@@ -2,20 +2,29 @@
 # Hi there, I'm Felipe Martinez 👋
 
 ### About
-I'm a Web Developer studying web development at [Rocketseat](https://rocketseat.com.br/). I'm also majoring in information systems at [UNICAMP](https://www.unicamp.br/).
+I'm a Full-Stack Developer with experience building and maintaining applications from front-end to back-end.
 
 ### Current Stack
+⚡ Main Language: JavaScript
+🌐 Backend: Node.js
+✨ Frontend: Next.js (React), HTML5, CSS3
+🗄 Databases: PostgreSQL (Supabase), Firebase
+🧪 API Testing: Insomnia
+🎨 Design & Prototyping: Figma
+📦 Version Control: Git & GitHub
+🔨 Tools: VS Code
 
-- ⚡ Main Languages: "Javascript", "Python"
-- 🌐 Backend: "Nodejs"
-- ✨ Frontend: "React", "HTML5", "CSS3", "Javascript"
-- 🎨 Layout Design: "Figma"
-- 📦️ Version control code: "Git & Github"
-- 🔨 Tools: "VsCode", "Markdown"
-- 🌍 I'm mostly active within the Rocketseat community
+### Professional Experience
+I work at Ícones, a ticketing company that sells tickets for a variety of events such as comedy shows, rock concerts, and national performances. I contribute to both the front-end and back-end of the platform.
+
+I also develop side projects for the company, including Oceania Backstage, a promotions platform I built entirely on my own, where users can participate in giveaways and sweepstakes.
+
+In addition, I collaborate on other projects like Event Parking, a system for managing event parking, where I also handle both front-end and back-end development.
+
+Education
+Bachelor’s degree in Information Systems from UNICAMP.
 
 ### Contacts
-
 - 📬 Email: f254214@dac.unicamp.br
 - 🧑‍💻 Linkedin: https://www.linkedin.com/in/felipe-costa-fonseca-martinez-0b8568261/
 
